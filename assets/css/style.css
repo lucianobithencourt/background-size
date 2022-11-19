@@ -31,3 +31,8 @@ main {
     border: 1px solid darkblue;
     border-radius: 15px;
 }
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+}
